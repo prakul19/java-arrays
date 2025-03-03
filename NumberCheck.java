@@ -5,7 +5,6 @@ public class NumberCheck {
         // Initialize an array 
         int[] numbers = new int[5];
         
-        // Scanner object for taking user input
         Scanner scanner = new Scanner(System.in);
         
         // Take user input for each number

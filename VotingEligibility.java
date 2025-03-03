@@ -5,7 +5,6 @@ public class VotingEligibility {
         // Initialize an array 
         int[] studentAges = new int[10];
         
-        // Scanner object for taking user input
         Scanner scanner = new Scanner(System.in);
         
         // Take user input for the age of each student
